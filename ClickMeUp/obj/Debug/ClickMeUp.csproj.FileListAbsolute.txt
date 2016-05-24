@@ -1,0 +1,9 @@
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\bin\Debug\ClickMeUp.exe.config
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\bin\Debug\ClickMeUp.exe
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\bin\Debug\ClickMeUp.pdb
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\obj\Debug\ClickMeUp.csprojResolveAssemblyReference.cache
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\obj\Debug\ClickMeUp.Form1.resources
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\obj\Debug\ClickMeUp.Properties.Resources.resources
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\obj\Debug\ClickMeUp.csproj.GenerateResource.Cache
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\obj\Debug\ClickMeUp.exe
+c:\users\fb\documents\visual studio 2015\Projects\ClickMeUp\ClickMeUp\obj\Debug\ClickMeUp.pdb
