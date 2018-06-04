@@ -1,3 +1,8 @@
+IMPORTANT:
+I moved this project to BitBucket.
+https://bitbucket.org/dansita/clickmeup/src/master/
+--------
+
 # ClickMeUp
 An easy robot in C# to detect edits in a web page.
 I tested ClickMeUp with Windows 7, Windows 8.1 and Windows 10.
